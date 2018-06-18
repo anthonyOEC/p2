@@ -1,4 +1,8 @@
 add 1c
 master 1
+<<<<<<< HEAD
 f1
 f1 2c
+=======
+f2 
+>>>>>>> product-f2
